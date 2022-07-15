@@ -3840,8 +3840,9 @@
 - name: SinGO
   description: A simple but particularly cute and interesting Hexo theme.
   link: https://github.com/ShanaMaid/hexo-theme-singo
-  preview: http://www.xsnetw.cf
+  preview: http://www.xsnetw.cf/
   tags:
+    - Local Search
     - cool
     - animate
     - Chinese
