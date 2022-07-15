@@ -3837,3 +3837,12 @@
     - Responsive
     - Customizable
     - Animate
+- name: SinGO
+  description: A simple but particularly cute and interesting Hexo theme.
+  link: https://github.com/ShanaMaid/hexo-theme-singo
+  preview: http://www.xsnetw.cf
+  tags:
+    - cool
+    - animate
+    - Chinese
+    - 中文
